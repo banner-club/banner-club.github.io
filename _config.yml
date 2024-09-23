@@ -3,8 +3,8 @@ remote_theme: epidrome/cover-card@main
 title: 'Hello World'
 description: ''
 
-avatar: 'avatar.png'
-background: 'background.png'
+avatar: 'avatar.jpg'
+background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
